@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ffmpegwasm/ffmpeg.wasm.git"
+    "url": "git+https://github.com/aynuzbh/ffmpegweb.git"
   },
   "keywords": [
     "ffmpeg",
@@ -27,15 +27,15 @@
     "audio",
     "transcode"
   ],
-  "author": "Jerome Wu <jeromewus@gmail.com>",
+  "author": "aynu.asia <aynuzbh@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/issues"
+    "url": "https://github.com/aynuzbh/ffmpegweb/issues/new"
   },
   "engines": {
     "node": ">=16.x"
   },
-  "homepage": "https://github.com/ffmpegwasm/ffmpeg.wasm#readme",
+  "homepage": "https://aynu.asia",
   "publishConfig": {
     "access": "public"
   }
